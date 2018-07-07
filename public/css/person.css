@@ -1,0 +1,53 @@
+header .navbar
+{
+	border-radius:0;
+	padding:15px;
+	background-color: #f5cba7  ;
+
+	
+}
+
+
+header .nav li a:hover
+{
+	
+	color: red;
+	font-family: serif;
+
+
+}
+
+
+.btn
+{
+	height: 170px;
+  	width: 170px;
+  	border-color:black;
+  	border-radius: 15px;
+  	padding:20px;
+	margin-left:190px;
+ font-size: 20px;
+	box-shadow: 0 9px black;
+background:transparent ;
+	
+	
+}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+
+}
+
+.btn:hover {
+    font-family: serif;
+	text-color:white;
+    
+}​
+
+
+
+
+
+

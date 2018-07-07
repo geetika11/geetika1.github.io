@@ -1,0 +1,143 @@
+header .navbar
+{
+	border-radius:0;
+	padding:15px;
+	background-color: #f5cba7  ;
+
+	
+}
+
+header .nav li a:hover
+{
+	color: red;
+	font-family: serif;
+
+}
+
+
+.name
+{
+	
+	opacity:0.5;
+	margin-left:800px;
+	margin-top:-20px;
+	width:420px;
+	padding:10px;
+	border:transparent;
+	border-color:black;
+	height:30px;
+	background:black  ;
+	color:white;
+}
+.email
+{
+	margin-top:25px;
+	opacity:0.5;
+border:transparent;
+padding:10px;
+	border-color:black;
+	height:30px;
+	background:black  ;
+	color:white;
+	width:420px;
+	margin-left:800px;
+}
+.message
+{	opacity:0.5;
+	height:200px;
+	margin-left:800px;
+margin-top:25px;
+padding:10px;
+	width:420px;
+border:transparent;
+	border-color:black;
+	
+	background:black  ;
+	color:white;
+}
+
+.submit
+{
+	margin-top:25px;
+	
+	width:200px;
+	margin-left:1017px;
+	font-color:#f9ebea;
+	background-color:black ;
+	border:transparent;
+	
+	height:30px;
+	
+	color:white;
+}
+
+.one
+{
+	margin-left:40px;
+	margin-top:60px;
+}
+.para
+{
+	margin-left:40px;
+	margin-top:-365px;
+}
+
+
+
+	
+.contact
+{
+	margin-left:40px;
+	color: white;
+}
+
+.fa {
+ 
+  font-size: 30px;
+  width: 45px;
+height:45px;
+	padding:7px;
+  text-align: center;
+  text-decoration: none;
+   margin: 5px 2px;
+  border-radius: 50%;
+}	
+.fa-facebook {
+  background: black;
+margin-left:40px;
+  color: white;
+}
+
+.fa-google {
+  background: black;
+
+margin-left:40px;
+  color: white;
+}
+
+.fa-linkedin {
+  background: black;
+margin-left:40px;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: black;
+margin-left:40px;
+  color: white;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+height:4%;
+    background-color:  #212f3c;
+    color: white;
+	padding:3px;
+    text-align: center;
+}
+
